@@ -6,6 +6,12 @@ Este projeto tem como objetivo aplicar conhecimentos de **Quality Assurance (QA)
 
 Foram elaborados **5 casos de teste e seus critérios de aceitação**, dos quais **3 foram automatizados** utilizando Python e Selenium WebDriver. A automação mobile foi desenvolvida com a emulação de um **iPhone 16 no Google Chrome**.
 
+## 🎥 Demonstração da automação
+
+Confira a demonstração prática da automação mobile, incluindo a navegação pela plataforma, execução dos cenários de teste e validações realizadas.
+
+▶️ **[ASSISTIR AO VÍDEO — AUTOMAÇÃO MOBILE ITERASYS](https://jam.dev/c/6cc53e45-8725-49a7-883c-90c4cb4dba08)**
+
 ## 🎯 Objetivos
 
 - Validar funcionalidades importantes da plataforma.
